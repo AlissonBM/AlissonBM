@@ -13,8 +13,8 @@
 
 ### Apresentação
 Meu nome é Alisson, estudante do 5º período de Engenharia da Computação. Estou buscando expandir meus
-conhecimentos como Power BI, Excel, Python e R.
+conhecimentos.
 
 ### Presentation
 My name is Alisson, a 5th period Computer Engineering student. I'm looking to expand my
-knowledge such as Power BI, Excel, Python and R.
+knowledge.
